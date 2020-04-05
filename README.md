@@ -30,7 +30,7 @@ coindex key remove
 coindex check price
 
 # Check specific coins (default: BTC, ETH, XRP)
-coindex check --coin=BTC,ETH
+coindex check --coin=BTC, ETH
 
 # Choose Currency (Default: EUR)
 coindex check --currency=EUR
